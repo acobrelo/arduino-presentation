@@ -69,35 +69,35 @@ linked beneath it but here are further source materials as well as the sources
 for the collage of images slide {denoted with the number of the image}. Click
 the link for the video, further resources are listed below applicable items.
 
--[Binary clock example](https://www.youtube.com/watch?v=gVIxki16gKY)
+- [Binary clock example](https://www.youtube.com/watch?v=gVIxki16gKY)
   - [LED clock code, similar function to the video but way cooler](https://github.com/phillipa/LEDCode/blob/master/FastLEDCode/Nov21-code/Nov21-code.ino)
 
 - [Motion-reactive table video](https://www.youtube.com/watch?v=OLfF4b49MLs)
 
-- 1. [LED cube](https://www.youtube.com/watch?v=6mXM-oGggrM)
+- {1} [LED cube](https://www.youtube.com/watch?v=6mXM-oGggrM)
   - [Blog link](http://www.instructables.com/id/Led-Cube-8x8x8/)
 
-- 2. [pH Monitor blog link](https://www.sparkyswidgets.com/portfolio-item/leophi-usb-arduino-ph-sensor/)
+- {2} [pH Monitor blog link](https://www.sparkyswidgets.com/portfolio-item/leophi-usb-arduino-ph-sensor/)
 
-- 3. [RaveRover Mobile Dance Stage](https://www.youtube.com/watch?v=owidDIIObik)
+- {3} [RaveRover Mobile Dance Stage](https://www.youtube.com/watch?v=owidDIIObik)
   - [Blog link](http://www.instructables.com/id/Rave-Rover-Mobile-Dance-Stage/)
 
-- 4. [Puff the Flame Extinguishing Dragon](https://www.youtube.com/watch?v=L1Kp5gGn1Cw)
+- {4} [Puff the Flame Extinguishing Dragon](https://www.youtube.com/watch?v=L1Kp5gGn1Cw)
   - [More info](http://forum.arduino.cc/index.php?topic=7432.0)
 
-- 5. [Lightening cloud](https://www.youtube.com/watch?v=nOQkqUFpn3M)
+- {5} [Lightening cloud](https://www.youtube.com/watch?v=nOQkqUFpn3M)
   - [Blog link](http://www.doityourselfathome.com/home-interior-diy/diy-project-thundercloud-light-and-lightening)
 
-- 6. [Blood pressure monitor hacking](https://www.youtube.com/watch?v=lNDmzOzxFpY)
+- {6} [Blood pressure monitor hacking](https://www.youtube.com/watch?v=lNDmzOzxFpY)
   - [Blog link](http://www.thinkering.de/cms/?p=325)
 
-- 7. [LED emblem shirt video](http://www.fictionalclothing.com/blog/2015/1/29/back-lit-latex-lace)
+- {7} [LED emblem shirt video](http://www.fictionalclothing.com/blog/2015/1/29/back-lit-latex-lace)
   - [Blog link](http://www.fictionalclothing.com/blog/2015/1/29/back-lit-latex-lace)
 
-- 8. [Plantudino Greenhouse](https://www.youtube.com/watch?v=hdojUHjg35g)
+- {8} [Plantudino Greenhouse](https://www.youtube.com/watch?v=hdojUHjg35g)
   - [Blog link](http://www.instructables.com/id/Backyard-Automated-Greenhouse/?ALLSTEPS)
 
-- 9. [Petting Zoo AI Light Creatures](https://vimeo.com/74377028)
+- {9} [Petting Zoo AI Light Creatures](https://vimeo.com/74377028)
   - [Further info](http://www.creativeapplications.net/processing/petting-zoo-by-minimaforms-intelligent-artificial-creatures-designed-to-learn-and-explore/)
 
 - [Laser Harp](https://www.youtube.com/watch?v=WkkhcwXpYy4)
