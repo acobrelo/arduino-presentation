@@ -1,106 +1,107 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Talk Template
+# Arduino
 
-Use this template to structure your READMEs for talks. Remove text from this
-section, or use it to frame the talk you are giving. Good framing answers the
-question "Why am I learning this?".
+Coding is cool but what's even cooler is writing code to interact with your
+environment. Arduino is a company that produces open-source hardware, software,
+and sells boards, or microcontroller, kits for use in interactive projects.
 
-Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
-configuration ([`.remarkrc`](.remarkrc)). Also, include an appropriate
-`.gitignore`; these are usually found in specific technology templates, for
-example [js-template](https://www.github.com/ga-wdi-boston/js-template).
+## Why Arduino?
 
-## Prerequisites
+Think of arduino like interfacing with the world. It bridges the gap between
+humans and electronics.
 
--   Topics with which developers should be familiar with.
--   Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-    Sass, I would **not** need to include CSS as a prerequisite.
--   [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
-    are often useful.
+What's important to note about the arduino is that both the hardware and software
+are open source. This means it has a pretty strong community where people
+are encouraged to adapt and develop on the existing tools provided, which has
+allowed to its explosive popularity.
 
-## Objectives
+While Arduino makes many types of kits, all of them are based on the same general
+ideas. The microcontroller takes digital and analog inputs, processes that data
+according to what the user has programmed in using the Arduino Programming
+Language. Then, it generates the desired output through use of circuitry and
+basic electrical engineering. Simple yet elegant.
 
-By the end of this, developers should be able to:
+## The Basics
 
--   Write objectives that focus on demonstrating knowledge.
--   Write learning objectives that begin with an [imperative
-    verb](https://en.wikipedia.org/wiki/Imperative_mood).
--   Avoid objectives that start with "Use" or "Understand".
--   Rewrite objecives that begin with "Use" by inverting sentence structure.
--   End each objective with a period.
--   Write objectives on the whiteboard so they can be referenced during a talk.
+Hardware: arduinos use a microcontroller, which is like a mini brain,
+capable of taking both [digital](https://www.arduino.cc/en/Tutorial/DigitalPins)
+and [analog](https://www.arduino.cc/en/Tutorial/AnalogInput)
+inputs. The input can either be hardcoded in or the microcontroller can receive
+data from the environment, USB, or even Twitter. The hardware is open-source
+and hacking it is actively encouraged, to awesome ends.
 
-## Preparation
+Software: arduino comes with its own integrated development environment, which is
+basically software that includes everything someone would need to use the hardware.
+This includes a compiler, libraries, GUI, and more and is STILL all open-source.
+The language is based on a language called Processing and the IDE is written in Java.
+Free to download and use, there's a strong community of contributors constantly
+improving it.
 
-1.  [Fork and clone](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone)
-    this repository.
-1.  Create a new branch, `training`, for your work.
-1.  Install dependencies with `npm install`.
+You buy your microcontroller, get the necessary materials, download the software,
+and you're pretty much all set to create whatever it is you're after. The microcontroller
+works like any regular circuit. If you're not quite up to date on your electical
+engineering, the power source provides force, which allows electrons to move
+through the circuit, where they are then directed to different parts of the
+controller and perform specific actions. It's ok if this is still witchcraft.
 
-Better preparation instructions may be found as
-[snippets](https://github.com/ga-wdi-boston/instructors/tree/master/snippets).
+## Looking Ahead...
 
-It's a good idea to have students do these steps while you're writing objectives
-on the whiteboard.
+Arduino used to just be for hobbyists and serial DIY-ers but has exapnded. Other
+types of microcontrollers are available for use, often with other languages.
+Arduino technology makes interactive programming projects accessible to people
+of all skill ranges and isn't cost prohibitive.
 
-## Leading Topic Heading
+In addition to increased use in art, it has high potential in scientific fields
+for interactive modeling and data manipulation and display. It has been used in
+drones, 3D printing, medicine, agriculture, and is expanding in its implementation.
+Arduino also provides a great way to introduce kids to programming.
 
-Here is where the talk begins. If you have not already included framing above,
-it's appropriate to put it here. Link to introductory articles or documentation.
-Motivate the next section.
+Similar technologies like [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+already exist, supporting different programming languages and innate capabilities.
+There's even a few products being developed for use with JavaScript, such as
+[Tessel](http://www.dragoninnovation.com/projects/22-tessel).
 
-Demos, exercises, and labs are labelled as such, followed by a colon and a
-description of the activity starting with an [imperative
-verb](https://en.wikipedia.org/wiki/Imperative_mood).
+## Projects
 
-## Demo: Write a Demo
+All of these projects are part of the PowerPoint. Each slide has the source
+linked beneath it but here are further source materials as well as the sources
+for the collage of images slide {denoted with the number of the image}. Click
+the link for the video, further resources are listed below applicable items.
 
-Demos are demonstrations, and developers should give their full attention to
-them. It's a great time for them to take notes about important concepts before
-applying them in an exercise.
+-[Binary clock example](https://www.youtube.com/watch?v=gVIxki16gKY)
+  - [LED clock code, similar function to the video but way cooler](https://github.com/phillipa/LEDCode/blob/master/FastLEDCode/Nov21-code/Nov21-code.ino)
+- [Motion-reactive table video](https://www.youtube.com/watch?v=OLfF4b49MLs)
+- 1. [LED cube](https://www.youtube.com/watch?v=6mXM-oGggrM)
+  - [Blog link](http://www.instructables.com/id/Led-Cube-8x8x8/)
+- 2. [pH Monitor blog link](https://www.sparkyswidgets.com/portfolio-item/leophi-usb-arduino-ph-sensor/)
+- 3. [RaveRover Mobile Dance Stage](https://www.youtube.com/watch?v=owidDIIObik)
+  - [Blog link](http://www.instructables.com/id/Rave-Rover-Mobile-Dance-Stage/)
+- 4. [Puff the Flame Extinguishing Dragon](https://www.youtube.com/watch?v=L1Kp5gGn1Cw)
+  - [More info](http://forum.arduino.cc/index.php?topic=7432.0)
+- 5. [Lightening cloud](https://www.youtube.com/watch?v=nOQkqUFpn3M)
+  - [Blog link](http://www.doityourselfathome.com/home-interior-diy/diy-project-thundercloud-light-and-lightening)
+- 6. [Blood pressure monitor hacking](https://www.youtube.com/watch?v=lNDmzOzxFpY)
+  - [Blog link](http://www.thinkering.de/cms/?p=325)
+- 7. [LED emblem shirt video](http://www.fictionalclothing.com/blog/2015/1/29/back-lit-latex-lace)
+  - [Blog link](http://www.fictionalclothing.com/blog/2015/1/29/back-lit-latex-lace)
+- 8. [Plantudino Greenhouse](https://www.youtube.com/watch?v=hdojUHjg35g)
+  - [Blog link](http://www.instructables.com/id/Backyard-Automated-Greenhouse/?ALLSTEPS)
+- 9. [Petting Zoo AI Light Creatures](https://vimeo.com/74377028)
+  - [Further info](http://www.creativeapplications.net/processing/petting-zoo-by-minimaforms-intelligent-artificial-creatures-designed-to-learn-and-explore/)
+- [Laser Harp](https://www.youtube.com/watch?v=WkkhcwXpYy4)
+  - [Blog link to a similar product](http://www.instructables.com/id/Frameless-Laser-Harp/?ALLSTEPS)
+- [inFORM Dynamic Shape Display](https://vimeo.com/79179138)
+  - [Further reading](http://tangible.media.mit.edu/project/inform/)
+-[Hobby horse of sorts](https://www.youtube.com/watch?v=XNs4G2rKGOE)
+  -[Blog link](http://www.instructables.com/id/Make-a-Fire-Breathing-Animetronic-Pony-from-FurRea/)
+-[The most functional robot ever built with arduino](https://www.youtube.com/watch?v=YnCOY9d9rUk)
+  -[Blog link](http://www.instructables.com/id/Desktop-Fist-Bumper/)
 
-Demos correspond to the "I do" portion of scaffolding from consultant training.
-
-## Exercise: Write an Exercise
-
-During exercises, developers should apply concepts covered in the previous demo.
-This is their first chance to generalize concepts introduced. Exercises should
-be very focused, and flow natural into a lab.
-
-Exercises correspond to the "We do" portion of scaffolding from consultant
-training.
-
-## Lab: Write a Lab
-
-During labs, developers get to demonstrate their understanding of concepts from
-demos and applied knowledge from exercises. Labs are an opportunity for
-developers to build confidence, and also serve as a diagnostic tool for
-consultants to evaluate developer understanding.
-
-Labs should be timed explicitly using a timer. When estimating the time it will
-take to complete a lab, it is better to overestimate. During labs, consultants
-should circle the room and interact with developers, noting patterns and
-prompting with hints on how to complete the lab. If developers end early, a
-consultant may stop the lab timer. If developers do not finish in time, a
-consultant may give more time at her discretion based on current talk pace, the
-current estimate for the talk, and the importance of completing the lab while
-consultant support is available.
-
-Labs correspond to the "You do" portion of scaffolding from consultant
-training.
-
-## Additional Resources
-
--   Any useful links should be included in the talk material where the link is
-    first referenced.
--   Additional links for further study or exploration are appropriate in this
-    section.
--   Links to important parts of documentation not covered during the talk, or
-    tools tangentially used but not part of the focus of the talk, are also
-    appropriate.
-
-## [License](LICENSE)
-
-Source code distributed under the MIT license. Text and other assets copyright
-General Assembly, Inc., all rights reserved.
+## Helpful Links
+- [Documentation](https://www.arduino.cc/en/Reference/HomePage)
+- [Getting Started](http://store-usa.arduino.cc/products/arduino-starter-kit?utm_source=redirects&utm_medium=store.arduino.cc&utm_campaign=303_Redirects)
+- [Project Ideas](https://create.arduino.cc/projecthub)
+- [Arduino homepage](https://www.arduino.cc/)
+- [PLC Programming](http://www.makeuseof.com/tag/world-plc-programming/)
+- [On the future of Arduino technology](https://www.quora.com/What-is-the-future-of-Arduino)
