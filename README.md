@@ -107,10 +107,10 @@ the link for the video, further resources are listed below applicable items.
   - [Further reading](http://tangible.media.mit.edu/project/inform/)
 
 - [Hobby horse of sorts](https://www.youtube.com/watch?v=XNs4G2rKGOE)
-  -[Blog link](http://www.instructables.com/id/Make-a-Fire-Breathing-Animetronic-Pony-from-FurRea/)
+  - [Blog link](http://www.instructables.com/id/Make-a-Fire-Breathing-Animetronic-Pony-from-FurRea/)
 
 - [The most functional robot ever built with arduino](https://www.youtube.com/watch?v=YnCOY9d9rUk)
-  -[Blog link](http://www.instructables.com/id/Desktop-Fist-Bumper/)
+  - [Blog link](http://www.instructables.com/id/Desktop-Fist-Bumper/)
 
 ## Helpful Links
 - [Documentation](https://www.arduino.cc/en/Reference/HomePage)
